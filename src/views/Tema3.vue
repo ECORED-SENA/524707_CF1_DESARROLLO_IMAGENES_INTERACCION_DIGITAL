@@ -54,8 +54,8 @@
 
     figure(data-aos="zoom-in").mb-5
       .video.mb-1
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-      figcaption(data-aos="zoom-in") #[b Video]: 
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/y6MiB-jb2eM" title="Contenido digital: lenguaje audiovisual" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+      figcaption(data-aos="zoom-in") #[b Video]: contenido digital lenguaje audiovisual.
     
     p.mb-5 Cuando se habla de #[b géneros en el medio audiovisual], generalmente se hace referencia a la ficción, el publicitario, el docudrama, el informativo y el de entretenimiento.
 
