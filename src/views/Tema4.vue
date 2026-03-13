@@ -32,7 +32,7 @@
             .row(titulo="Guion técnico").ajuste-cajaAcordion
               p.mb-3 También llamado #[i shooting script]. Se desarrolla específicamente para el formato de video y define lo audiovisual desde el punto de vista de las secuencias. Se basa generalmente en el guion literario y traduce la historia en imágenes concretas. Describe lo audiovisual utilizando el lenguaje propio de la imagen, lo cual resulta útil tanto en la grabación como en la edición.
             .row(titulo="Guion ilustrado").ajuste-cajaAcordion
-              p.mb-3 Conocido como storyboard. Es un conjunto de imágenes realizadas mediante dibujo, ilustración, collage u otras técnicas visuales, que permiten anticipar el contenido audiovisual. Es una herramienta clave para la animación, la coordinación del rodaje, el desarrollo del concepto de arte y la planificación de efectos especiales. Facilita la comunicación entre director, cámara y especialistas. Los #[i storyboards] más comunes siguen el american #[i style], similar a un cómic sencillo con viñetas regulares.
+              p.mb-3 Conocido como #[i storyboard]. Es un conjunto de imágenes realizadas mediante dibujo, ilustración, collage u otras técnicas visuales, que permiten anticipar el contenido audiovisual. Es una herramienta clave para la animación, la coordinación del rodaje, el desarrollo del concepto de arte y la planificación de efectos especiales. Facilita la comunicación entre director, cámara y especialistas. Los #[i storyboards] más comunes siguen el american #[i style], similar a un cómic sencillo con viñetas regulares.
             .row(titulo="Escaleta").ajuste-cajaAcordion
               p.mb-3 Forma de guion más simple que presenta una lista de escenas o situaciones con una breve descripción. Es útil como borrador del guion literario y ayuda a establecer la estructura inicial del video. Es el guion mínimo recomendado para cualquier producción audiovisual y debe mantener coherencia de principio a fin.
     
@@ -52,7 +52,7 @@
                 h4 #[i Storyboard] animado
                 p.mb-0 Puede estar compuesto por bocetos individuales con el fin de crear sensación de tiempo y movimiento. Al añadir música y diálogo, las animaciones permiten generar un mayor sentido de flujo visual y temporal.
               .col-xl-6
-                figure.d-none.d-xl-block
+                figure
                   img(src='@/assets/curso/temas/img102.png', alt='' style="max-width: 500px").m-auto
             
             .row.h-100.justify-content-center.align-items-center
@@ -60,7 +60,7 @@
                 h4 #[i Storyboard digimatics]
                 p.mb-0 Sustituye los bocetos por imágenes digitales unidas entre sí para crear sensación de tiempo y movimiento. Es similar al #[i storyboard] animado y se utiliza especialmente en publicidad para visualizar anuncios y realizar películas de prueba.
               .col-xl-6
-                figure.d-none.d-xl-block
+                figure
                   img(src='@/assets/curso/temas/img103.png', alt='' style="max-width: 500px").m-auto
 
             .row.h-100.justify-content-center.align-items-center
@@ -68,7 +68,7 @@
                 h4 #[i Storyboard] de miniaturas
                 p.mb-0 Se caracteriza por su tamaño reducido y por reunirse en una sola hoja. Se dibuja con rapidez y emplea garabatos en los paneles de acción, así como bocetos previos antes de desarrollar los detalles.
               .col-xl-6
-                figure.d-none.d-xl-block
+                figure
                   img(src='@/assets/curso/temas/img104.png', alt='' style="max-width: 500px").m-auto
               
             .row.h-100.justify-content-center.align-items-center
@@ -76,7 +76,7 @@
                 h4 #[i Storyboard] tradicional
                 p.mb-0 Consiste en dibujos realizados a lápiz o bolígrafo por un artista bajo la supervisión del productor o director. Sigue las pautas del cineasta, del cliente o del productor, aunque en muchos casos es el propio director quien elabora su #[i storyboard].
               .col-xl-6
-                figure.d-none.d-xl-block
+                figure
                   img(src='@/assets/curso/temas/img105.png', alt='' style="max-width: 500px").m-auto
 
 </template>

@@ -82,7 +82,7 @@
                 h4 Género ficción
                 p.mb-0 Es una historia inventada que se puede presentar o adaptar a un formato de comedia, miniserie o película, o algún nuevo formato digital como #[i docu game, docu show, psico show], una micronarrativa de instagram.
               .col-xl-6
-                figure.d-none.d-xl-block
+                figure
                   img(src='@/assets/curso/temas/img92.svg', alt='' style="max-width: 500px").m-auto
             
             .row.h-100.justify-content-center.align-items-center
@@ -90,7 +90,7 @@
                 h4 Género publicitario
                 p.mb-0 Su finalidad es persuadir. Se caracteriza por su corta duración y permanencia efímera. Puede representarse mediante comerciales, televentas, videos, noticias publicitarias o #[i publicity], patrocinios en redes sociales y programas de entretenimiento, entre otros.
               .col-xl-6
-                figure.d-none.d-xl-block
+                figure
                   img(src='@/assets/curso/temas/img93.svg', alt='' style="max-width: 500px").m-auto
 
             .row.h-100.justify-content-center.align-items-center
@@ -98,7 +98,7 @@
                 h4 Género docudrama
                 p.mb-0 Se ocupa de historias efímeras, no necesariamente fieles a la realidad, donde prima el espectáculo y el espectador adopta un rol de #[i voyeur]. Algunos de sus formatos son el #[i reality show], el #[i talk show], la docuserie, la cámara oculta y los #[i celebrity shows].
               .col-xl-6
-                figure.d-none.d-xl-block
+                figure
                   img(src='@/assets/curso/temas/img94.svg', alt='' style="max-width: 500px").m-auto
               
             .row.h-100.justify-content-center.align-items-center
@@ -106,7 +106,7 @@
                 h4 Género informativo
                 p.mb-0 Tiene como referencia hechos que han sucedido realmente, por lo que puede asociarse al documental. Entre sus formatos se encuentran el informativo diario clásico, tanto televisivo como en canales digitales.
               .col-xl-6
-                figure.d-none.d-xl-block
+                figure
                   img(src='@/assets/curso/temas/img95.svg', alt='' style="max-width: 500px").m-auto
 
             .row.h-100.justify-content-center.align-items-center
@@ -114,7 +114,7 @@
                 h4 Género de entretenimiento
                 p.mb-0 Se relaciona con la competición, la exhibición y el humor. Adopta formatos como concursos de azar (#[i quiz shows] o #[i game shows]), #[i sketches], comedia en vivo o #[i stand-up] comedy, videos caseros en plataformas como Kwai o #[i TikTok], y la transmisión en directo de acontecimientos por medios tradicionales o digitales.
               .col-xl-6
-                figure.d-none.d-xl-block
+                figure
                   img(src='@/assets/curso/temas/img96.png', alt='' style="max-width: 500px").m-auto
 
     p.mb-5 De igual manera, en la actualidad existen diversos #[b formatos audiovisuales para Internet] que hacen parte de las estrategias digitales.

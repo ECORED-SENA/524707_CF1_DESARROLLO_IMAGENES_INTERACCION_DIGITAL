@@ -14,7 +14,7 @@
         :style="{'background-image': `url(${require('@/assets/curso/temas/img1.jpg')})`}"
       )
       .bloque-texto-g__texto.p-4
-        p.mb-0 El diseño surge como una manera de organizar las ideas para plasmarlas en una comunicación de tipo visual. Puede aplicarse en múltiples áreas, entre las que se encuentran el diseño gráfico, de interiores, arquitectónico, industrial, de modas, editorial, publicitario, artístico, diseño digital y diseño web, entre otros. Debido a su relación con tantas áreas, el diseño puede definirse como #[b toda acción creadora que persigue una finalidad].
+        p.mb-0 El diseño surge como una manera de organizar las ideas para plasmarlas en una comunicación de tipo visual. Puede aplicarse en múltiples áreas, entre las que se encuentran el diseño gráfico, de interiores, arquitectónico, industrial, de modas, editorial, publicitario, artístico, diseño digital y diseño #[i Web], entre otros. Debido a su relación con tantas áreas, el diseño puede definirse como #[b toda acción creadora que persigue una finalidad].
 
     <!------------------------------------------ SUBTEMA 1 ------------------------------------------>
     Separador
@@ -28,83 +28,83 @@
         .ajuste-slider(data-aos="zoom-in")
           SlyderA(tipo="b")
             .row.h-100.justify-content-center.align-items-center
-              .col-xl-6.mb-4
+              .col-xl-6.mb-4.mb-md-0
                 h4 Prehistoria
                 p.mb-0 La comunicación gráfica se remonta a las pinturas rupestres. En sus inicios, consistía en trazos realizados en cavernas, asociados principalmente a significados de carácter religioso.
               .col-xl-6
-                figure.d-none.d-xl-block
+                figure
                   img(src='@/assets/curso/temas/img2.png', alt='' style="max-width: 500px").m-auto
             
             .row.h-100.justify-content-center.align-items-center
-              .col-xl-6.mb-4
+              .col-xl-6.mb-4.mb-md-0
                 h4 Antiguo Egipto
                 p.mb-0 Los antiguos egipcios se comunicaban mediante jeroglíficos tallados en piedra. Posteriormente, emplearon otros soportes como el papiro, lo que facilitó la transmisión de información.
               .col-xl-6
-                figure.d-none.d-xl-block
+                figure
                   img(src='@/assets/curso/temas/img3.png', alt='' style="max-width: 500px").m-auto
 
             .row.h-100.justify-content-center.align-items-center
-              .col-xl-6.mb-4
+              .col-xl-6.mb-4.mb-md-0
                 h4 Edad Media
                 p.mb-0 Las obras escritas alcanzaron un mayor poder comunicativo gracias al uso del color, las ilustraciones y otros elementos gráficos utilizados de manera armoniosa y equilibrada dentro del documento.
               .col-xl-6
-                figure.d-none.d-xl-block
+                figure
                   img(src='@/assets/curso/temas/img4.png', alt='' style="max-width: 500px").m-auto
             
             .row.h-100.justify-content-center.align-items-center
-              .col-xl-6.mb-4
+              .col-xl-6.mb-4.mb-md-0
                 h4 Siglo XV (1440)
                 p.mb-0 Durante la primera mitad del siglo XV aparece la imprenta, inventada por el alemán #[b Johannes Gutenberg], lo que permitió agilizar y masificar la elaboración de documentos, así como ampliar el alcance de sus mensajes.
               .col-xl-6
-                figure.d-none.d-xl-block
+                figure
                   img(src='@/assets/curso/temas/img5.png', alt='' style="max-width: 500px").m-auto
             
             .row.h-100.justify-content-center.align-items-center
-              .col-xl-6.mb-4
+              .col-xl-6.mb-4.mb-md-0
                 h4 Siglo XIX
-                p.mb-0 A finales del siglo XIX, la Revolución Industrial provocó profundos cambios en el desarrollo tecnológico. Surge la necesidad de contar con un estilo propio que represente la idiosincrasia de cada región, dando origen al Modernismo.
+                p.mb-0 A finales del siglo XIX, la Revolución Industrial provocó profundos cambios en el desarrollo tecnológico. Surge la necesidad de contar con un estilo propio que represente la idiosincrasia de cada región, dando origen al modernismo.
               .col-xl-6
-                figure.d-none.d-xl-block
+                figure
                   img(src='@/assets/curso/temas/img6.png', alt='' style="max-width: 500px").m-auto
 
             .row.h-100.justify-content-center.align-items-center
-              .col-xl-6.mb-4
+              .col-xl-6.mb-4.mb-md-0
                 h4 Modernismo (1918 - 1933)
                 p.mb-0 Conocido también como Art #[i Nouveau]. Según Droste (2006), este movimiento buscó integrar el arte con la vida cotidiana, utilizando elementos de la naturaleza para otorgar protagonismo al componente orgánico.
               .col-xl-6
-                figure.d-none.d-xl-block
+                figure
                   img(src='@/assets/curso/temas/img7.png', alt='' style="max-width: 500px").m-auto
                 
             .row.h-100.justify-content-center.align-items-center
-              .col-xl-6.mb-4
+              .col-xl-6.mb-4.mb-md-0
                 h4 Bauhaus (1919 - 1933)
-                p.mb-0 En 1919 #[b Walter Gropius] creó la escuela #[b Bauhaus], la cual se convirtió en el motor y modelo ejemplar de la reforma de la formación artística antiacadémica de la República de Weimar (1918 - 1933). La Bauhaus combinó diseño, arte y arquitectura, y estudió la forma, el color, los materiales, la composición y el espacio, bajo la influencia del constructivismo. La escuela cerró sus puertas en Berlín en 1933 (p. 15).
+                p.mb-0 En 1919, #[b Walter Gropius] creó la escuela #[b #[i Bauhaus]], la cual se convirtió en el motor y modelo ejemplar de la reforma de la formación artística antiacadémica de la República de Weimar (1918 - 1933). La #[i Bauhaus] combinó diseño, arte y arquitectura, y estudió la forma, el color, los materiales, la composición y el espacio, bajo la influencia del constructivismo. La escuela cerró sus puertas en Berlín en 1933 (p. 15).
               .col-xl-6
-                figure.d-none.d-xl-block
+                figure
                   img(src='@/assets/curso/temas/img8.png', alt='' style="max-width: 500px").m-auto
             
             .row.h-100.justify-content-center.align-items-center
-              .col-xl-6.mb-4
+              .col-xl-6.mb-4.mb-md-0
                 h4 Art déco (1925)
-                p.mb-0 Mientras en Alemania se desarrollaba la Bauhaus, en Francia surgió el movimiento Art déco, el cual se dio a conocer en la Exposición Internacional de las Artes Decorativas e Industriales Modernas de 1925.
+                p.mb-0 Mientras en Alemania se desarrollaba la #[i Bauhaus], en Francia surgió el movimiento Art déco, el cual se dio a conocer en la Exposición Internacional de las Artes Decorativas e Industriales Modernas de 1925.
               .col-xl-6
-                figure.d-none.d-xl-block
+                figure
                   img(src='@/assets/curso/temas/img9.png', alt='' style="max-width: 500px").m-auto
 
             .row.h-100.justify-content-center.align-items-center
-              .col-xl-6.mb-4
+              .col-xl-6.mb-4.mb-md-0
                 h4 La época del diseño en Estados Unidos (década de 1940)
                 p.mb-0 La época del diseño en Estados Unidos se inició en los años cuarenta y estuvo fuertemente influenciada por las raíces europeas, debido a la llegada de emigrantes europeos como consecuencia de la Segunda Guerra Mundial. Estos aportes se convirtieron en una referencia importante para el diseño actual.
               .col-xl-6
-                figure.d-none.d-xl-block
+                figure
                   img(src='@/assets/curso/temas/img10.png', alt='' style="max-width: 500px").m-auto
             
             .row.h-100.justify-content-center.align-items-center
-              .col-xl-6.mb-4
+              .col-xl-6.mb-4.mb-md-0
                 h4 Diseño gráfico contemporáneo
-                p.mb-0 En la actualidad, el diseño gráfico forma parte de la vida cotidiana y está presente en todas las áreas de la comunicación. Con la aparición de Internet en la década de 1980, su evolución se aceleró gracias al uso de computadores y programas informáticos gráficos, los cuales transformaron el papel en pantalla y ofrecieron a los diseñadores nuevas posibilidades de experimentación con el texto y la imagen. Este proceso permitió el surgimiento de nuevas corrientes y especialidades, como la creación y el diseño de páginas web.
+                p.mb-0 En la actualidad, el diseño gráfico forma parte de la vida cotidiana y está presente en todas las áreas de la comunicación. Con la aparición de Internet en la década de 1980, su evolución se aceleró gracias al uso de computadores y programas informáticos gráficos, los cuales transformaron el papel en pantalla y ofrecieron a los diseñadores nuevas posibilidades de experimentación con el texto y la imagen. Este proceso permitió el surgimiento de nuevas corrientes y especialidades, como la creación y el diseño de páginas #[i Web].
               .col-xl-6
-                figure.d-none.d-xl-block
+                figure
                   img(src='@/assets/curso/temas/img11.png', alt='' style="max-width: 500px").m-auto
 
     .row.align-items-center
@@ -153,15 +153,15 @@
         .ajuste-slider(data-aos="zoom-in")
           SlyderA(tipo="b")
             .row.h-100.justify-content-center.align-items-center
-              .col-xl-6.mb-4
+              .col-xl-6.mb-4.mb-md-0
                 h4 Variedad
                 p.mb-0 Se refiere a los distintos elementos (forma, color, ilustración, fotografía, entre otros) que incorpora el diseñador en una composición con el propósito de captar el interés mediante el uso de componentes contrastantes.
               .col-xl-6
-                figure.d-none.d-xl-block
+                figure
                   img(src='@/assets/curso/temas/img18.png', alt='' style="max-width: 500px").m-auto
             
             .row.h-100.justify-content-center.align-items-center
-              .col-xl-6.mb-4
+              .col-xl-6.mb-4.mb-md-0
                 h4 Jerarquía
                 p.mb-3 Se relaciona con el tamaño de los elementos y su vínculo con el resto, así como con el color y la disposición, con el fin de generar una condición de subordinación. Presenta tres subtipos:
                 ul.fa-ul.estilo___ul.mb-0
@@ -178,56 +178,56 @@
                       i.fas.fa-arrow-alt-circle-right
                     | #[b Escala]: se presenta cuando existe una relación matemática (proporción) entre las dimensiones de los distintos elementos, la cual puede expresarse mediante un número o una fórmula.
               .col-xl-6
-                figure.d-none.d-xl-block
+                figure
                   img(src='@/assets/curso/temas/img19.png', alt='' style="max-width: 500px").m-auto
 
             .row.h-100.justify-content-center.align-items-center
-              .col-xl-6.mb-4
+              .col-xl-6.mb-4.mb-md-0
                 h4 Unidad
                 p.mb-0 El valor de la unidad radica en que cada elemento se organiza, se relaciona y genera fuerza y tensión, representando un conjunto integrado. La unidad puede lograrse por continuidad, repetición, continuación o proximidad.
               .col-xl-6
-                figure.d-none.d-xl-block
+                figure
                   img(src='@/assets/curso/temas/img20.png', alt='' style="max-width: 500px").m-auto
             
             .row.h-100.justify-content-center.align-items-center
-              .col-xl-6.mb-4
+              .col-xl-6.mb-4.mb-md-0
                 h4 Contraste
                 p.mb-0 Corresponde a la distinción entre uno o varios elementos para marcar una diferencia que permita resaltar aquello que se considera relevante. El contraste puede generarse por color, forma, tamaño y tipografía; por ejemplo, las formas angulares y alargadas amplían el campo visual y generan un efecto de magnificencia, mientras que las formas cortas transmiten humildad.
               .col-xl-6
-                figure.d-none.d-xl-block
+                figure
                   img(src='@/assets/curso/temas/img21.png', alt='' style="max-width: 500px").m-auto
             
             .row.h-100.justify-content-center.align-items-center
-              .col-xl-6.mb-4
+              .col-xl-6.mb-4.mb-md-0
                 h4 Ritmo
                 p.mb-0 Consiste en la repetición regular de un patrón con el propósito de lograr armonía en la composición. El ritmo puede desarrollarse de forma regular o progresiva.
               .col-xl-6
-                figure.d-none.d-xl-block
+                figure
                   img(src='@/assets/curso/temas/img22.png', alt='' style="max-width: 500px").m-auto
 
             .row.h-100.justify-content-center.align-items-center
-              .col-xl-6.mb-4
+              .col-xl-6.mb-4.mb-md-0
                 h4 Equilibrio
                 p.mb-3 Hace referencia a la armonía entre los elementos, de tal manera que ninguno predomine dentro del plano. Existen dos tipos de equilibrio:
                 ul.fa-ul.estilo___ul.mb-0
                   li.mb-1
                     span.fa-li
                       i.fas.fa-arrow-alt-circle-right
-                    | #[b Simetría]: a partir de un eje o plano se organizan elementos en relación exacta de forma, tamaño y posición, formando partes iguales pero contrapuestas.
+                    | #[b Simetría]: a partir de un eje o plano, se organizan elementos en relación exacta de forma, tamaño y posición, formando partes iguales pero contrapuestas.
                   li.mb-0
                     span.fa-li
                       i.fas.fa-arrow-alt-circle-right
-                    | #[b Asimetría]: corresponde a una composición en la que una parte tiene mayor peso visual que las demás. Generalmente genera composiciones llamativas e incluso puede producir resultados más dinámicos que la simetría. Presenta tres tipos: reflexión, rotación y traslación.
+                    | #[b Asimetría]: corresponde a una composición en la que una parte tiene mayor peso visual que las demás. Por lo general, genera composiciones llamativas e incluso puede producir resultados más dinámicos que la simetría. Presenta tres tipos: reflexión, rotación y traslación.
               .col-xl-6
-                figure.d-none.d-xl-block
+                figure
                   img(src='@/assets/curso/temas/img23.png', alt='' style="max-width: 500px").m-auto
                 
             .row.h-100.justify-content-center.align-items-center
-              .col-xl-6.mb-4
+              .col-xl-6.mb-4.mb-md-0
                 h4 Proporción áurea
-                p.mb-0 También denominada número áureo o divina proporción, corresponde al valor 1.618. Este número surge de la sucesión de Fibonacci, en la cual cada número resulta de la suma de los dos anteriores. Se asocia con patrones presentes en la naturaleza y ha sido aplicado en el arte y la pintura a lo largo de la historia. El uso de este principio favorece una proporción más armónica y visualmente agradable.
+                p.mb-0 También denominada número áureo o divina proporción, corresponde al valor 1.618. Este número surge de la sucesión de #[i Fibonacci], en la cual cada número resulta de la suma de los dos anteriores. Se asocia con patrones presentes en la naturaleza y ha sido aplicado en el arte y la pintura a lo largo de la historia. El uso de este principio favorece una proporción más armónica y visualmente agradable.
               .col-xl-6
-                figure.d-none.d-xl-block
+                figure
                   img(src='@/assets/curso/temas/img24.png', alt='' style="max-width: 500px").m-auto
 
     p.mb-5 Después de revisar estos principios, es importante señalar que #[b cada uno posee una relevancia particular dentro de la composición]. Su estudio y aplicación conjunta permiten que el diseño logre transmitir de manera efectiva el mensaje previamente definido, fortaleciendo la claridad comunicativa y la coherencia visual del producto gráfico.
@@ -324,7 +324,7 @@
                         img(src='@/assets/curso/temas/img30.svg', alt='Diagrama del modelo de color RGB con la combinación de rojo, verde y azul para generar otros colores y el blanco. ' style="width: 350px").m-auto
               .row(titulo="Teoría de la síntesis sustractiva").ajuste-cajaAcordion
                 p.mb-3 La teoría de la #[b síntesis sustractiva] se basa en la mezcla de pigmentos o materiales que absorben parte de la luz y reflejan el resto. En este modelo, los #[b colores primarios] son el cian, el magenta y el amarillo, conocidos como colores #[b CMY].
-                p.mb-3 La combinación de dos colores primarios sustractivos genera colores secundarios. Cuando se mezclan los tres colores primarios sustractivos se obtiene un color oscuro, cercano al negro, debido a la absorción casi total de la luz. Al igual que en la síntesis aditiva, la combinación de un color primario y uno secundario produce colores terciarios.
+                p.mb-3 La combinación de dos colores primarios sustractivos, genera colores secundarios. Cuando se mezclan los tres colores primarios sustractivos se obtiene un color oscuro, cercano al negro, debido a la absorción casi total de la luz. Al igual que en la síntesis aditiva, la combinación de un color primario y uno secundario produce colores terciarios.
                 .ajuste___tabla_acordion
                   .titulo-sexto.color-acento-contenido.mb-2
                     h5 Tabla 2.
@@ -364,7 +364,7 @@
     .titles___box_cuarto_nivel.mb-5(data-aos="fade-right")   
       h4.mb-0 Propiedades del color
     
-    p.mb-5 Este aspecto permite ampliar la comprensión sobre el significado y usos del color. Sin embargo, para su correcta aplicación es necesario comprender las #[b propiedades del mismo], las cuales permiten analizar y seleccionar los colores de manera adecuada dentro del diseño gráfico. Las propiedades del color permiten diferenciar, clasificar y utilizar los colores de forma consciente dentro de una composición visual.
+    p.mb-5 Este aspecto permite ampliar la comprensión sobre el significado y los usos del color. Sin embargo, para su correcta aplicación es necesario comprender las #[b propiedades del mismo], las cuales permiten analizar y seleccionar los colores de manera adecuada dentro del diseño gráfico. Las propiedades del color permiten diferenciar, clasificar y utilizar los colores de forma consciente dentro de una composición visual.
 
     .row.justify-content-center.mb-5
       .col-xl-8
@@ -451,12 +451,13 @@
     
     p.mb-5 Una vez comprendido el uso y significado de cada color, resulta necesario conocer su base estructural, la cual se representa mediante el #[b círculo cromático]. Este se define como un esquema gráfico con forma circular que permite organizar los colores primarios y secundarios.
 
-    .row.align-items-center.mb-5.style___box_3.m-0(data-aos="zoom-in")
-      .col-xl-auto(data-aos="fade-right")     
-        figure.d-none.d-xl-block
-          img(src="@/assets/curso/temas/img37.svg").m-auto
-      .col-xl
-        p.mb-0 En el círculo cromático, los colores ubicados de forma opuesta reciben el nombre de #[b colores complementarios]. Estos se definen como aquellos que no contienen ninguna proporción del color contrario. De este modo, el color complementario del azul cian es el rojo; el del magenta es el verde; y el del amarillo es el violeta.
+    .style___box_3.mb-5(data-aos="zoom-in")
+      .row.align-items-center
+        .col-xl-auto.col-md-2(data-aos="fade-right")
+          figure
+            img(src='@/assets/curso/temas/img37.svg', alt='' style="width: 85px").m-auto
+        .col-xl.col-md-10.espacio___movil_3
+          p.mb-0 En el círculo cromático, los colores ubicados de forma opuesta reciben el nombre de #[b colores complementarios]. Estos se definen como aquellos que no contienen ninguna proporción del color contrario. De este modo, el color complementario del azul cian es el rojo; el del magenta es el verde; y el del amarillo es el violeta.
     
     .titulo-sexto.color-acento-contenido.mb-2(data-aos="fade-right")
       h5 Figura 5.
@@ -577,19 +578,19 @@
 
             .row.h-100.justify-content-center.align-items-center
               .col-xl-6.mb-4
-                h4 Leyes de la Gestalt
+                h4 Leyes de la #[i Gestalt]
                 p.mb-0 Sostienen la fascinación por la forma y la materia, permitiendo dominar y deducir incluso aquello que se encuentra detrás de la forma. En la Alemania de los años veinte, un grupo de psicólogos desarrolló una serie de teorías sobre la percepción visual humana, basadas en el principio de que el todo es más que la suma de las partes. Estas leyes explican el origen de las percepciones a partir de los estímulos y se fundamentan en pruebas y resultados estadísticos que, aunque no son unívocos, evidencian tendencias fuertes (Pereiro, 2007, p. 44).
               .col-xl-6
                 .titulo-sexto.color-acento-contenido.mb-2(data-aos="fade-right")
                   h5 Figura 14.
-                  span Leyes de la Gestalt
+                  span Leyes de la #[i Gestalt]
                 figure(data-aos="zoom-in")
                   img(src='@/assets/curso/temas/img47.png', alt='Gráfico perceptivo asociado a principios gestálticos de organización visual. ' style="max-width: 500px")
             
             .row.h-100.justify-content-center.align-items-center
               .col-xl-6.mb-4
                 h4 Ley de figura-fondo
-                p.mb-0 Es la más general de las leyes de la Gestalt. Parte del hecho de que, en el proceso perceptivo, se tiende a centrar la atención en un objeto o grupo de objetos (figura), mientras los elementos que los rodean se perciben como fondo. En algunos casos, figura y fondo pueden intercambiar sus roles, generando una relación reversible o ambigua.
+                p.mb-0 Es la más general de las leyes de la #[i Gestalt]. Parte del hecho de que, en el proceso perceptivo, se tiende a centrar la atención en un objeto o grupo de objetos (figura), mientras los elementos que los rodean se perciben como fondo. En algunos casos, figura y fondo pueden intercambiar sus roles, generando una relación reversible o ambigua.
               .col-xl-6
                 .titulo-sexto.color-acento-contenido.mb-2(data-aos="fade-right")
                   h5 Figura 15.
@@ -678,23 +679,23 @@
                 h4 Forma
                 p.mb-0 Todo lo que se puede percibir tiene forma. La forma es un espacio delimitado y plano, de dos dimensiones (anchura y altura). Según el punto de vista del observador, se distinguen dos grupos: #[b geométricas], que pueden construirse con regla o compás (triángulos, cuadrados, círculos), y #[b orgánicas], que son menos esquemáticas, más libres y semejantes a las que se encuentran en la naturaleza.
               .col-xl-6
-                figure.d-none.d-xl-block
+                figure
                   img(src='@/assets/curso/temas/img55.png', alt='' style="max-width: 500px").m-auto
             
             .row.h-100.justify-content-center.align-items-center
               .col-xl-6.mb-4
                 h4 Medida
-                p.mb-0 Todas las formas tienen un tamaño. Al comparar diferentes elementos se perciben tamaño, forma, distancia, peso y ubicación en el espacio. El tamaño es relativo cuando se describe en términos de magnitud o pequeñez, pero también es físicamente medible.
+                p.mb-0 Todas las formas tienen un tamaño. Al comparar diferentes elementos, se perciben tamaño, forma, distancia, peso y ubicación en el espacio. El tamaño es relativo cuando se describe en términos de magnitud o pequeñez, pero también es físicamente medible.
               .col-xl-6
-                figure.d-none.d-xl-block
+                figure
                   img(src='@/assets/curso/temas/img56.png', alt='' style="max-width: 500px").m-auto
 
             .row.h-100.justify-content-center.align-items-center
               .col-xl-6.mb-4
                 h4 Color
-                p.mb-0 Generalmente la forma no puede separarse del color, ya que el color es la reacción de un objeto a los rayos de luz mediante los cuales se percibe.
+                p.mb-0 Por lo general, la forma no puede separarse del color, ya que el color es la reacción de un objeto a los rayos de luz mediante los cuales se percibe.
               .col-xl-6
-                figure.d-none.d-xl-block
+                figure
                   img(src='@/assets/curso/temas/img57.png', alt='' style="max-width: 500px").m-auto
             
             .row.h-100.justify-content-center.align-items-center
@@ -702,7 +703,7 @@
                 h4 Textura
                 p.mb-0 Es la apariencia externa de la forma y se percibe mediante la vista, generando la ilusión del tacto según el tratamiento de su superficie. Puede ser natural o artificial y se crea mediante patrones o repeticiones que aportan realismo y tridimensionalidad a los objetos planos.
               .col-xl-6
-                figure.d-none.d-xl-block
+                figure
                   img(src='@/assets/curso/temas/img58.png', alt='' style="max-width: 500px").m-auto
             
             .row.h-100.justify-content-center.align-items-center
@@ -710,7 +711,7 @@
                 h4 Línea
                 p.mb-0 Según Jaime P. Llaseras (s.f.), la línea está formada por una sucesión de puntos y constituye el elemento visual básico de todo diseño gráfico. La línea conecta la trayectoria de un punto a otro y se caracteriza por su grosor, color, textura y estilo.
               .col-xl-6
-                figure.d-none.d-xl-block
+                figure
                   img(src='@/assets/curso/temas/img59.png', alt='' style="max-width: 500px").m-auto
 
             .row.h-100.justify-content-center.align-items-center
@@ -718,7 +719,7 @@
                 h4 Objeto
                 p.mb-0 Es una forma que adquiere propiedades tridimensionales, creando la ilusión de profundidad y realzando el volumen mediante el uso de la luz, la sombra y la perspectiva. Los objetos se miden por su anchura, altura y profundidad, y pueden ser geométricos u orgánicos.
               .col-xl-6
-                figure.d-none.d-xl-block
+                figure
                   img(src='@/assets/curso/temas/img60.png', alt='' style="max-width: 500px").m-auto
                 
             .row.h-100.justify-content-center.align-items-center
@@ -726,7 +727,7 @@
                 h4 Espacio
                 p.mb-0 Es la distancia o área alrededor o entre los elementos de un diseño y determina la esencia visual y el dinamismo de la composición. Puede ser #[b positivo], cuando corresponde a las formas donde recae la atención, o #[b negativo], cuando corresponde al espacio entre los elementos, el cual resulta igualmente fundamental para la composición.
               .col-xl-6
-                figure.d-none.d-xl-block
+                figure
                   img(src='@/assets/curso/temas/img61.png', alt='' style="max-width: 500px").m-auto
 
             .row.h-100.justify-content-center.align-items-center
@@ -734,7 +735,7 @@
                 h4 Tipografía
                 p.mb-0 El uso de letras o palabras es una de las formas más directas de comunicación visual y uno de los elementos más utilizados en el diseño gráfico. La tipografía no solo comunica palabras, sino que su estilo y disposición aportan significado a la composición. Cada carácter tipográfico resulta de la combinación de formas geométricas y orgánicas.
               .col-xl-6
-                figure.d-none.d-xl-block
+                figure
                   img(src='@/assets/curso/temas/img62.png', alt='' style="max-width: 500px").m-auto
 
 
@@ -755,30 +756,30 @@
         .col-xl
           AcordionA(tipo="a" clase-tarjeta="tarjeta acordeonA")(data-aos="fade-left")
             .row(titulo="Anatomía tipográfica").ajuste-cajaAcordion
-              p.mb-3  Comprende todas las características de las tipografías que pueden descomponerse y sintetizarse. La anatomía de los caracteres es lo que otorga a la tipografía su propio estilo y aspecto. A partir de su anatomía, las tipografías pueden agruparse en #[b serif], #[i sans serif, script] y decorativas. La #[b serifa o remate] es un elemento identificador que refuerza la legibilidad del texto. 
+              p.mb-3  Comprende todas las características de las tipografías que pueden descomponerse y sintetizarse. La anatomía de los caracteres es lo que otorga a la tipografía su propio estilo y aspecto. A partir de su anatomía, las tipografías pueden agruparse en #[b #[i serif]], #[i sans serif, script] y decorativas. La #[b serifa o remate] es un elemento identificador que refuerza la legibilidad del texto. 
             .row(titulo="Psicología de la tipografía").ajuste-cajaAcordion
               p.mb-3  Al igual que ocurre con el color, la selección de la tipografía se relaciona con la idea o mensaje que se quiere transmitir, puesto que cada tipo de letra produce sensaciones y valores perceptibles. “Está probado que la forma visual y el estilo de cada familia tipográfica provoca una emoción diferente que puede ser usada para transmitir diferentes conceptos” (Hemisferio Digital, 2017). 
             .row(titulo="Familia tipográfica y su clasificación").ajuste-cajaAcordion
-              p.mb-3 Una familia tipográfica agrupa todas las variaciones posibles de un tipo de letra o fuente específica, como los diferentes grosores, anchos y cursivas. Entre las familias tipográficas se encuentran la Universe, Times Roman y la Garamond. Muchas familias reciben el nombre de su creador o de la publicación en la que se emplearon por primera vez (Ambrose y Harris, 2007, p. 82). En el siglo XX se realizaron tres clasificaciones tipográficas. La última fue desarrollada por la #[b ATypI] en 1962 (Association Typographique Internationale), integrando las clasificaciones de François Thibaudeau (1921), Maximilien Vox (1952) y Aldo Novarese (1957). Esta clasificación distingue once familias agrupadas en cuatro conjuntos: 
+              p.mb-3 Una familia tipográfica agrupa todas las variaciones posibles de un tipo de letra o fuente específica, como los diferentes grosores, anchos y cursivas. Entre las familias tipográficas se encuentran la universe, times roman y la garamond. Muchas familias reciben el nombre de su creador o de la publicación en la que se emplearon por primera vez (Ambrose y Harris, 2007, p. 82). En el siglo XX se realizaron tres clasificaciones tipográficas. La última fue desarrollada por la #[b ATypI] en 1962 (#[i Association Typographique Internationale]), integrando las clasificaciones de François Thibaudeau (1921), Maximilien Vox (1952) y Aldo Novarese (1957). Esta clasificación distingue once familias agrupadas en cuatro conjuntos: 
               ul.fa-ul.estilo___ul_1.mb-3
                 li.mb-0
                   span.fa-li
                     i.fas.fa-arrow-alt-circle-right
-                  | #[b Tipografías Roman] (Romanas, Egipcias o Mecanas, Incisas).
+                  | #[b Tipografías roman] (Romanas, Egipcias o Mecanas, Incisas).
                 li.mb-0
                   span.fa-li
                     i.fas.fa-arrow-alt-circle-right
-                  | #[b Tipografías Palo Seco] (Humanistas, Geométricas, Grotescas, Neogrotescas).
+                  | #[b Tipografías palo seco] (Humanistas, Geométricas, Grotescas, Neogrotescas).
                 li.mb-0
                   span.fa-li
                     i.fas.fa-arrow-alt-circle-right
-                  | #[b Tipografías de Escritura] (#[i Script]) (Caligráficas, Manuales, Góticas).
+                  | #[b Tipografías de escritura] (#[i Script]) (Caligráficas, Manuales, Góticas).
                 li.mb-0
                   span.fa-li
                     i.fas.fa-arrow-alt-circle-right
-                  | #[b Tipografías de Fantasía o decorativas], que reinterpretan elementos formales fuera de toda norma, incorporando elementos variables de diversa naturaleza.
+                  | #[b Tipografías de fantasía o decorativas], que reinterpretan elementos formales fuera de toda norma, incorporando elementos variables de diversa naturaleza.
             .row(titulo="Tipografía digital").ajuste-cajaAcordion
-              p.mb-5  Gracias a los avances tecnológicos se ha pasado de la fotocomposición a la tipografía digital, diseñada a partir de vectores para su visualización en cualquier tipo de pantalla o dispositivo móvil. Los formatos más tradicionales utilizados en los sistemas operativos son: #[i TrueType Font (.ttf), OpenType Font (.otf), Embedded OpenType (.eot) y Web Open Font Format (.woff y .woff2)]. Las tipografías web son una función del CSS (lenguaje para la composición y estructuración de páginas web HTML o XML) que permite especificar los archivos tipográficos que se descargan junto con un sitio web a medida que el usuario accede a él. Las tipografías web pueden crearse o seleccionarse a partir de catálogos existentes. Entre las herramientas para creación se encuentra #[i MyScriptFont], y también es posible diseñarlas en #[i Adobe Illustrator]. Para la selección de tipografías existentes se dispone de servicios como #[i Google Fonts, Typekit de Adobe, Typography y Creative Market], donde se ofrecen tipografías gratuitas y con licencias de pago.
+              p.mb-5  Gracias a los avances tecnológicos, se ha pasado de la fotocomposición a la tipografía digital, diseñada a partir de vectores para su visualización en cualquier tipo de pantalla o dispositivo móvil. Los formatos más tradicionales utilizados en los sistemas operativos son: #[i TrueType Font (.ttf), OpenType Font (.otf), Embedded OpenType (.eot) y Web Open Font Format (.woff y .woff2)]. Las tipografías #[i Web] son una función del CSS (lenguaje para la composición y estructuración de páginas #[i Web HTML o XML]) que permite especificar los archivos tipográficos que se descargan junto con un sitio #[i Web] a medida que el usuario accede a él. Las tipografías #[i Web] pueden crearse o seleccionarse a partir de catálogos existentes. Entre las herramientas para creación se encuentra #[i MyScriptFont], y también es posible diseñarlas en #[i Adobe Illustrator]. Para la selección de tipografías existentes se dispone de servicios como #[i Google Fonts, Typekit de Adobe, Typography y Creative Market], donde se ofrecen tipografías gratuitas y con licencias de pago.
 
 </template>
 
