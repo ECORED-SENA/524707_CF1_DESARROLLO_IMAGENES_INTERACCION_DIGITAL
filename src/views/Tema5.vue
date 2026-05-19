@@ -62,7 +62,7 @@
       .col-xl
         .style___box_3.fit___box_3_3.mb-3(data-aos="zoom-in")
           p.mb-0 De esta manera, las organizaciones logran una segmentación tan precisa de sus mercados que llegan a identificar los medios sociales utilizados en cada país. Los profesionales del #[i marketing] digital consideran que, si un producto o servicio no se encuentra en Internet, simplemente no existe.
-        p.mb-0 Las redes sociales como #[i TikTok, Kwai, Facebook, Twitter, LinkedIn e Instagram] constituyen nuevas formas de llegar al cliente. Aunque muchas personas consideran que estos son los principales medios para comercializar productos o servicios, también resulta necesario contar con un #[b sitio #[i Web]] y con el apoyo del #[b #[i e-mail marketing]].
+        p.mb-0 Las redes sociales como #[i TikTok, Kwai, Facebook, Twitter, LinkedIn e Instagram] constituyen nuevas formas de llegar al cliente. Aunque muchas personas consideran que estos son los principales medios para comercializar productos o servicios, también resulta necesario contar con un #[b sitio #[i web]] y con el apoyo del #[b #[i e-mail marketing]].
       .col-xl-auto(data-aos="fade-left")
         figure.d-none.d-xl-block
           img(src='@/assets/curso/temas/img111.png', alt='').m-auto
@@ -121,7 +121,7 @@
             .row.h-100.justify-content-center.align-items-center
               .col-xl-6.mb-4
                 h4 Análisis de la competencia
-                p.mb-0 Es un análisis de todas las empresas o personas que hacen ruido en la #[i Web], posicionándose con productos o servicios iguales o sustitutivos de los que se desean vender.
+                p.mb-0 Es un análisis de todas las empresas o personas que hacen ruido en la #[i web], posicionándose con productos o servicios iguales o sustitutivos de los que se desean vender.
               .col-xl-6
                 figure
                   img(src='@/assets/curso/temas/img117.png', alt='' style="max-width: 500px").m-auto
@@ -140,13 +140,13 @@
             .row(titulo="Estrategias en redes sociales").ajuste-cajaAcordion
               p.mb-3 Análisis de las redes sociales más efectivas para el producto o servicio, así como del lenguaje, el estilo de comunicación y la atención a los seguidores.
             .row(titulo="Estrategia SEO").ajuste-cajaAcordion
-              p.mb-3 Estudio de palabras clave para posicionar la página #[i Web] en Google y de los contenidos necesarios para mantener un posicionamiento óptimo y lograr conversiones, considerando otros factores del posicionamiento orgánico.
+              p.mb-3 Estudio de palabras clave para posicionar la página #[i web] en Google y de los contenidos necesarios para mantener un posicionamiento óptimo y lograr conversiones, considerando otros factores del posicionamiento orgánico.
             .row(titulo="Estrategias en publicidad digital").ajuste-cajaAcordion
               p.mb-3 Análisis de medios publicitarios digitales en los que se paga por visita, incluyendo opciones como microsegmentación de anuncios y la gestión flexible de campañas.
             .row(titulo="Estrategias en <i>Email Marketing</i>").ajuste-cajaAcordion
               p.mb-3 Estrategias orientadas al uso efectivo del correo electrónico para la captación de clientes y la conversión de ventas.
             .row(titulo="Estrategia <i>web</i>").ajuste-cajaAcordion
-              p.mb-3 Análisis de los elementos fundamentales de la página #[i Web] para alcanzar los objetivos, considerando accesibilidad, identidad, navegación, contenidos y usabilidad.
+              p.mb-3 Análisis de los elementos fundamentales de la página #[i web] para alcanzar los objetivos, considerando accesibilidad, identidad, navegación, contenidos y usabilidad.
     
     .bg--img_03.mb-5
       .row.h-100.align-items-center
@@ -163,7 +163,7 @@
             .row(titulo="Métodos de pago recomendados").ajuste-cajaAcordion
               p.mb-3 Análisis de las formas más convenientes y seguras de pago en el caso de proyectos de #[i e-commerce], según el público objetivo y el tipo de negocio.
             .row(titulo="Analítica y medición de resultados").ajuste-cajaAcordion
-              p.mb-3 Uso de herramientas de analítica para conocer la interacción de los usuarios y mejorar continuamente la aplicación y la página #[i Web].
+              p.mb-3 Uso de herramientas de analítica para conocer la interacción de los usuarios y mejorar continuamente la aplicación y la página #[i web].
         .col-xl-auto
           figure(data-aos="fade-left").d-none.d-xl-block
             img(src="@/assets/curso/temas/img119.png", alt="" ).m-auto

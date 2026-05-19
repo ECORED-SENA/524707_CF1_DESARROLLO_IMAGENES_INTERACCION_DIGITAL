@@ -306,7 +306,7 @@ export default {
         },
         {
           nombre: 'Olga Constanza Bermúdez Jaimes',
-          cargo: 'Responsable de línea de producción',
+          cargo: 'Responsable de línea de producción Huila',
           centro: 'Dirección General',
         },
       ],
@@ -357,6 +357,12 @@ export default {
         },
         {
           nombre: 'Juan Pablo Rojas Polania',
+          cargo: 'Animador y productor audiovisual',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
+        },
+        {
+          nombre: 'Carlos Eduardo Garavito Parada',
           cargo: 'Animador y productor audiovisual',
           centro:
             'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',

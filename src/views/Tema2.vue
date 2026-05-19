@@ -16,7 +16,7 @@
         figure.d-none.d-xl-block
           img(src='@/assets/curso/temas/img64.png', alt='').m-auto
     
-    p.mb-5 De igual manera, el diseño digital puede entenderse como el enfoque encargado de #[b dar solución a problemas reales derivados de la interacción entre las personas y la presencia digital de las empresas], especialmente en el desarrollo de páginas #[i Web]. A partir de estas aproximaciones, la definición que mejor se ajusta a los contenidos formativos del programa tecnológico #[b Técnico en Integración de Contenidos Digitales] es la siguiente:
+    p.mb-5 De igual manera, el diseño digital puede entenderse como el enfoque encargado de #[b dar solución a problemas reales derivados de la interacción entre las personas y la presencia digital de las empresas], especialmente en el desarrollo de páginas #[i web]. A partir de estas aproximaciones, la definición que mejor se ajusta a los contenidos formativos del programa tecnológico #[b Técnico en Integración de Contenidos Digitales] es la siguiente:
 
     .style___box_3.fit___box_3.mb-0(data-aos="zoom-in")
       .row.align-items-center
@@ -32,31 +32,31 @@
         <!------------------------------------------ SUBTEMA 1 ------------------------------------------>
         Separador
         #t_2_1.titulo-segundo.color-acento-contenido(data-aos="fade-right")
-          h2 2.1 El diseño #[i Web]
+          h2 2.1 El diseño #[i web]
         
         .row.align-items-center.mb-5
           .col-xl
-            p.mb-3 El diseño #[i Web] es un área del diseño digital que se encarga de desarrollar interfaces digitales, sitios y aplicaciones #[i Web], haciendo uso de lenguajes específicos como #[i HTML].
+            p.mb-3 El diseño #[i web] es un área del diseño digital que se encarga de desarrollar interfaces digitales, sitios y aplicaciones #[i web], haciendo uso de lenguajes específicos como #[i HTML].
             .style___box_3.mb-3(data-aos="zoom-in")
-              p.mb-0 El diseñador #[i Web] tiene la misión de enlazar al usuario con el mundo informativo de manera eficaz y agradable. La hipermedia permite, además del acceso a la información, satisfacer los requerimientos y gustos de millones de navegantes. Por esta razón, resulta primordial contar con un criterio de diseño previo a la creación de un sitio #[i Web] (Bustos, p. 29).
-            p.mb-0 Es frecuente confundir los términos diseño #[i Web] y desarrollo #[i Web]. Aunque se encuentran estrechamente relacionados, sus propósitos son distintos.
+              p.mb-0 El diseñador #[i web] tiene la misión de enlazar al usuario con el mundo informativo de manera eficaz y agradable. La hipermedia permite, además del acceso a la información, satisfacer los requerimientos y gustos de millones de navegantes. Por esta razón, resulta primordial contar con un criterio de diseño previo a la creación de un sitio #[i web] (Bustos, p. 29).
+            p.mb-0 Es frecuente confundir los términos diseño #[i web] y desarrollo #[i web]. Aunque se encuentran estrechamente relacionados, sus propósitos son distintos.
           .col-xl-auto(data-aos="fade-left")
             figure.d-none.d-xl-block
               img(src='@/assets/curso/temas/img66.png', alt='').m-auto
         
         .titulo-sexto.color-acento-contenido.mb-2(data-aos="fade-right")
           h5 Tabla 4.
-          span Diferencias entre diseño #[i Web] y desarrollo #[i Web]
+          span Diferencias entre diseño #[i web] y desarrollo #[i web]
         .tabla-a(data-aos="zoom-in").mb-5
           table
             thead
               tr
-                th.ajuste-border-tabla.texto-left Diseño #[i Web]
-                th.texto-left Desarrollo #[i Web]
+                th.ajuste-border-tabla.texto-left Diseño #[i web]
+                th.texto-left Desarrollo #[i web]
             tbody
               tr.ajuste-color-tabla
-                td.ajuste-border-tabla.texto-left Cubre las fases del proyecto relacionadas con la navegación, la usabilidad, la interacción, la arquitectura de la información y la parte gráfica del sitio #[i Web].
-                td.texto-left Corresponde a la programación necesaria para la construcción del sitio #[i Web].
+                td.ajuste-border-tabla.texto-left Cubre las fases del proyecto relacionadas con la navegación, la usabilidad, la interacción, la arquitectura de la información y la parte gráfica del sitio #[i web].
+                td.texto-left Corresponde a la programación necesaria para la construcción del sitio #[i web].
               tr
                 td.ajuste-border-tabla.texto-left Se enfoca en la experiencia del usuario y en la organización visual e interactiva del contenido.
                 td.texto-left Se divide en la parte del cliente y la parte del servidor, que pueden estar conectadas o no.
@@ -64,7 +64,7 @@
                 td.ajuste-border-tabla.texto-left Define cómo se presenta y se estructura la información para el usuario.
                 td.texto-left Construye la lógica interna del sitio, las bases de datos y los mecanismos de seguridad.
     
-    p.mb-5 En la #[b parte del cliente], se emplean #[i HTML] y #[i CSS] como código básico para la creación de páginas #[i Web], y #[i JavaScript] y #[i DOM] para la interacción con el usuario. En la #[b parte del servidor], se trabaja con lenguajes como #[i PHP, ASP.NET y JSP], los cuales permiten construir el #[i back-end], es decir, la parte del sitio que el usuario no percibe directamente. Su función principal es el diseño de bases de datos y la seguridad de la #[i Web].
+    p.mb-5 En la #[b parte del cliente], se emplean #[i HTML] y #[i CSS] como código básico para la creación de páginas #[i web], y #[i JavaScript] y #[i DOM] para la interacción con el usuario. En la #[b parte del servidor], se trabaja con lenguajes como #[i PHP, ASP.NET y JSP], los cuales permiten construir el #[i back-end], es decir, la parte del sitio que el usuario no percibe directamente. Su función principal es el diseño de bases de datos y la seguridad de la #[i web].
 
     .bloque-texto-g.bloque-texto-g--inverso.color-secundario.p-3.p-sm-4.p-md-5.mb-0(data-aos="zoom-in")
       .bloque-texto-g__img(
@@ -76,9 +76,9 @@
     <!------------------------------------------ SUBTEMA 2 ------------------------------------------>
     Separador
     #t_2_2.titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2 2.2 Principios del diseño #[i Web]
+      h2 2.2 Principios del diseño #[i web]
 
-    p.mb-5 Al diseñar un sitio #[i Web], es necesario considerar ciertos principios clave que permiten que el usuario pueda realizar correctamente las actividades y procesos previstos por el diseñador. Estos principios se conocen como #[b principios de diseño #[i Web]].
+    p.mb-5 Al diseñar un sitio #[i web], es necesario considerar ciertos principios clave que permiten que el usuario pueda realizar correctamente las actividades y procesos previstos por el diseñador. Estos principios se conocen como #[b principios de diseño #[i web]].
 
     TabsC.color-acento-contenido.mb-0(data-aos="zoom-in")
       .py-3.py-md-4(titulo="Navegabilidad")
@@ -88,7 +88,7 @@
               img(src='@/assets/curso/temas/img68.svg', alt="" ).m-auto
           .col-xl-7.order-1.order-lg-2.mb-4.mb-lg-0
             h4.txt--purpura.mb-4 Navegabilidad
-            p.mb-0 Se refiere a la forma en que el usuario se desplaza dentro de un sitio #[i Web], considerando la facilidad con la que puede realizar las acciones previstas. Un sitio navegable facilita la localización de la información y la orientación del usuario, y debe permitir responder con claridad a tres preguntas: ¿dónde estoy?, ¿dónde he estado? y ¿a dónde puedo ir?
+            p.mb-0 Se refiere a la forma en que el usuario se desplaza dentro de un sitio #[i web], considerando la facilidad con la que puede realizar las acciones previstas. Un sitio navegable facilita la localización de la información y la orientación del usuario, y debe permitir responder con claridad a tres preguntas: ¿dónde estoy?, ¿dónde he estado? y ¿a dónde puedo ir?
 
       .py-3.py-md-4(titulo="Accesibilidad")
         .row.justify-content-center.align-items-center
@@ -97,7 +97,7 @@
               img(src='@/assets/curso/temas/img69.svg', alt="" ).m-auto
           .col-xl-7.order-1.order-lg-2.mb-4.mb-lg-0
             h4.txt--purpura.mb-4 Accesibilidad
-            p.mb-0 Corresponde a la posibilidad de acceso a la página #[i Web] y a sus contenidos por parte del mayor número de personas, independientemente de sus conocimientos, capacidades o discapacidades (físicas, intelectuales o técnicas), y sin depender de condicionantes tecnológicos específicos. Este principio es uno de los primeros en considerarse al crear un sitio #[i Web].
+            p.mb-0 Corresponde a la posibilidad de acceso a la página #[i web] y a sus contenidos por parte del mayor número de personas, independientemente de sus conocimientos, capacidades o discapacidades (físicas, intelectuales o técnicas), y sin depender de condicionantes tecnológicos específicos. Este principio es uno de los primeros en considerarse al crear un sitio #[i web].
       
       .py-3.py-md-4(titulo="Usabilidad")
         .row.justify-content-center.align-items-center
@@ -164,24 +164,24 @@
                 caption Referencia Tabla - Norma APA
                 thead
                   tr
-                    th(colspan="2") Dos facetas
+                    th(colspan="2").texto-left Dos facetas
                 tbody
                   tr
                     td.ajuste-border-tabla.texto-left Funcional
-                    td.texto-left Relacionada con atributos como opciones de navegación visibles, navegación consistente, menús propios, tamaño del sitio #[i Web], ventanas emergentes, información del producto y estructura del diseño.
+                    td.texto-left Relacionada con atributos como opciones de navegación visibles, navegación consistente, menús propios, tamaño del sitio #[i web], ventanas emergentes, información del producto y estructura del diseño.
                   tr.ajuste-color-tabla
                     td.ajuste-border-tabla.texto-left Estética
                     td.texto-left Vinculada al diseño visual y a las actitudes y emociones que este genera en el usuario.
         
             .style___box_3(data-aos="zoom-in")
-              p.mb-0 Para Montaño y Montero (2015), la usabilidad también se asocia con los #[b métodos que mejoran la experiencia de uso] durante el diseño o rediseño de un sitio #[i Web], convirtiéndose en un aspecto de interés al aportar valor añadido mediante la gestión del #[i marketing].
+              p.mb-0 Para Montaño y Montero (2015), la usabilidad también se asocia con los #[b métodos que mejoran la experiencia de uso] durante el diseño o rediseño de un sitio #[i web], convirtiéndose en un aspecto de interés al aportar valor añadido mediante la gestión del #[i marketing].
 
         <!------------------------------------------ SUBTEMA 4 ------------------------------------------>
         Separador
         #t_2_4.titulo-segundo.color-acento-contenido(data-aos="fade-right")
-          h2 2.4 Arquitectura #[i Web]
+          h2 2.4 Arquitectura #[i web]
         
-        p.mb-5 El diseño y la arquitectura de información de las páginas #[i Web] son “el resultado de la actividad de clasificar, describir, estructurar y etiquetar los contenidos del sitio” (Leyva, Alarcón, Barrera y Ortegón, 2017). Antes de proyectar o diseñar una página #[i Web], es necesario seguir los lineamientos de la etapa de creación, tal como se presenta:
+        p.mb-5 El diseño y la arquitectura de información de las páginas #[i web] son “el resultado de la actividad de clasificar, describir, estructurar y etiquetar los contenidos del sitio” (Leyva, Alarcón, Barrera y Ortegón, 2017). Antes de proyectar o diseñar una página #[i web], es necesario seguir los lineamientos de la etapa de creación, tal como se presenta:
 
         .fondo___slider.mb-5
           .px-5
@@ -211,7 +211,7 @@
                     figure
                       img(src='@/assets/curso/temas/img77.png', alt='' style="max-width: 500px").m-auto
     
-    p.mb-5 Para la estructuración visual inicial de un sitio #[i Web] se emplean herramientas de bocetación como el #[i wireframe] y el #[i mockup]: 
+    p.mb-5 Para la estructuración visual inicial de un sitio #[i web] se emplean herramientas de bocetación como el #[i wireframe] y el #[i mockup]: 
 
     TabsC.color-acento-contenido.mb-5(data-aos="zoom-in")
       .py-3.py-md-4(titulo="<i> Wireframe</i>")
@@ -221,7 +221,7 @@
               img(src='@/assets/curso/temas/img78.png', alt="" ).m-auto
           .col-xl-7.order-1.order-lg-2.mb-4.mb-lg-0
             h4.txt--purpura.mb-4 #[i Wireframe]
-            p.mb-0 Prototipo de una página #[i Web] o de una aplicación que se realiza en una plantilla y que no incluye color, tipografía, imágenes ni gráficos. Puede realizarse a mano o en el computador y no contempla la funcionalidad de la #[i Web]. Antes de la elaboración del layout (distribución y forma), se crea este esquema básico que permite entender cómo quedará el producto final. De esta manera pueden verificarse errores o aspectos negativos. El #[i Wireframe] se modifica las veces necesarias hasta llegar al resultado deseado.
+            p.mb-0 Prototipo de una página #[i web] o de una aplicación que se realiza en una plantilla y que no incluye color, tipografía, imágenes ni gráficos. Puede realizarse a mano o en el computador y no contempla la funcionalidad de la #[i web]. Antes de la elaboración del layout (distribución y forma), se crea este esquema básico que permite entender cómo quedará el producto final. De esta manera pueden verificarse errores o aspectos negativos. El #[i wireframe] se modifica las veces necesarias hasta llegar al resultado deseado.
 
       .py-3.py-md-4(titulo="<i>Mockup</i>")
         .row.justify-content-center.align-items-center
@@ -230,17 +230,17 @@
               img(src='@/assets/curso/temas/img79.png', alt="" ).m-auto
           .col-xl-7.order-1.order-lg-2.mb-4.mb-lg-0
             h4.txt--purpura.mb-4 #[i Mockup]
-            p Un #[i Mockup] es un bosquejo o prototipo que se utiliza en la fase final del desarrollo de sitios #[i Web] y aplicaciones, y sirve para exhibir o probar un diseño y para conocer la opinión del cliente, los usuarios o consumidores. Esta maqueta, a diferencia del #[i Wireframe], integra todos los elementos que contendrá el diseño, acercándose mucho al diseño final.
-            p.mb-0 Un #[i Mockup] clásico es estático. Sin embargo, las herramientas de maquetación permiten integrar funciones simples como enlaces. Dependiendo de la complejidad, pueden clasificarse como diseños de mediana o alta fidelidad y aproximarse a los prototipos. A diferencia de la maqueta estática, los prototipos son siempre interactivos y contienen la mayoría de las funciones de la página #[i Web] o aplicación planificada.
+            p Un #[i mockup] es un bosquejo o prototipo que se utiliza en la fase final del desarrollo de sitios #[i web] y aplicaciones, y sirve para exhibir o probar un diseño y para conocer la opinión del cliente, los usuarios o consumidores. Esta maqueta, a diferencia del #[i wireframe], integra todos los elementos que contendrá el diseño, acercándose mucho al diseño final.
+            p.mb-0 Un #[i mockup] clásico es estático. Sin embargo, las herramientas de maquetación permiten integrar funciones simples como enlaces. Dependiendo de la complejidad, pueden clasificarse como diseños de mediana o alta fidelidad y aproximarse a los prototipos. A diferencia de la maqueta estática, los prototipos son siempre interactivos y contienen la mayoría de las funciones de la página #[i web] o aplicación planificada.
     
-    p.mb-5 La arquitectura #[i Web] implica considerar si el resultado final será un sitio capaz de resolver las necesidades del negocio y servir a las de los clientes. El arquitecto #[i Web] diseña y coordina el desarrollo de sitios #[i Web], los cuales constituyen una integración compleja de sistemas como bases de datos, servidores, redes y componentes de respaldo y seguridad. El desarrollo #[i Web] requiere protocolos de comunicación entre dispositivos hardware, conocimientos de lenguajes de programación, estructuras de bases de datos, el protocolo TCP/IP, el lenguaje #[i HTML] y otros elementos técnicos.
+    p.mb-5 La arquitectura #[i web] implica considerar si el resultado final será un sitio capaz de resolver las necesidades del negocio y servir a las de los clientes. El arquitecto #[i web] diseña y coordina el desarrollo de sitios #[i web], los cuales constituyen una integración compleja de sistemas como bases de datos, servidores, redes y componentes de respaldo y seguridad. El desarrollo #[i web] requiere protocolos de comunicación entre dispositivos hardware, conocimientos de lenguajes de programación, estructuras de bases de datos, el protocolo TCP/IP, el lenguaje #[i HTML] y otros elementos técnicos.
 
     .row.align-items-center.mb-5
       .col-xl
         .style___box_3.mb-3(data-aos="zoom-in")
-          p.mb-0 Las piezas esenciales de la arquitectura #[i Web] son: servidores, bases de datos, redes, #[i HTML], componentes de respaldo y seguridad, inteligencia de contenidos #[i Web], organización de componentes y organización de las llamadas entre páginas (#[i interlinking]).
-        p.mb-3 El #[i HTML] es la pieza más relevante para los contenidos de este programa. Corresponde a la sigla #[i Hyper Text Markup Language] (Lenguaje de Marcas de Hipertexto) y es el principal lenguaje de marcación utilizado para el desarrollo de páginas #[i Web].
-        p.mb-0 Según Next U (s.f.), el #[i HTML] es un lenguaje abstracto que utilizan las aplicaciones para representar documentos completos, como las páginas #[i Web], los cuales pueden transmitirse fácilmente a través de Internet. Los navegadores procesan e interpretan estos documentos mediante analizadores de #[i HTML].
+          p.mb-0 Las piezas esenciales de la arquitectura #[i web] son: servidores, bases de datos, redes, #[i HTML], componentes de respaldo y seguridad, inteligencia de contenidos #[i web], organización de componentes y organización de las llamadas entre páginas (#[i interlinking]).
+        p.mb-3 El #[i HTML] es la pieza más relevante para los contenidos de este programa. Corresponde a la sigla #[i Hyper Text Markup Language] (Lenguaje de Marcas de Hipertexto) y es el principal lenguaje de marcación utilizado para el desarrollo de páginas #[i web].
+        p.mb-0 Según Next U (s.f.), el #[i HTML] es un lenguaje abstracto que utilizan las aplicaciones para representar documentos completos, como las páginas #[i web], los cuales pueden transmitirse fácilmente a través de Internet. Los navegadores procesan e interpretan estos documentos mediante analizadores de #[i HTML].
         
       .col-xl-auto(data-aos="fade-left")
         figure.d-none.d-xl-block
@@ -248,7 +248,7 @@
     
     p.mb-5
       | El lenguaje #[i HTML] se define a partir de etiquetas delimitadas por los símbolos &lt; y &gt;, por ejemplo: &lt;etiqueta&gt;.
-      | Estas etiquetas describen los elementos que se desean representar en una página #[i Web].
+      | Estas etiquetas describen los elementos que se desean representar en una página #[i web].
       | En &lt;title&gt;Internet básico, email, descargas y compras en línea&lt;/title&gt; la etiqueta title indica el título del documento.
     
     .titles___box_tercer_nivel.mb-5(data-aos="fade-right")
@@ -258,7 +258,7 @@
       .col
         h3 Experiencia de usuario (UX)
 
-    p.mb-5 Según Bigné, Ruiz y Andreu (2004), la experiencia del usuario se refiere a los factores que influyen en la exploración, la satisfacción y las intenciones de comportamiento o transacciones electrónicas futuras, tanto personales como externas, que pueden afectar la experiencia del usuario en una página #[i Web].
+    p.mb-5 Según Bigné, Ruiz y Andreu (2004), la experiencia del usuario se refiere a los factores que influyen en la exploración, la satisfacción y las intenciones de comportamiento o transacciones electrónicas futuras, tanto personales como externas, que pueden afectar la experiencia del usuario en una página #[i web].
 
     .style___box_5.mb-5(data-aos="zoom-in")
       .row.align-items-center
